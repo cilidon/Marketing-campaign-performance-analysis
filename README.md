@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 SQL queries used for this analysis can be found here [link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1scampaign-per!2sus-central1!3sfe4737b7-2149-47f0-b3ec-b56cb23043c1!2e1)
 
 
-An interactive dashboard used to explore campaign performance can be found here [link].
+An interactive dashboard used to explore campaign performance can be found here [link](https://lookerstudio.google.com/s/u2OxBsWwvGc)
 
 ## Data Structure Overview
 
